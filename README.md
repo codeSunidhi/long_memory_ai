@@ -30,15 +30,14 @@ This project demonstrates how to build a memory-augmented AI assistant running c
 👁 Displays retrieved memories for transparency
 
 📁 Project Structure
+'''
 LONG_MEMORY/
 │
 ├── app.py              # Main Streamlit application
 ├── requirements.txt    # Python dependencies
 ├── .gitignore
-└── venv/               # Virtual environment (not pushed to GitHub)
-
-
-⚠️ venv/ should NOT be pushed to GitHub.
+└── venv/               # Virtual environment 
+'''
 
 ⚙️ Requirements
 
