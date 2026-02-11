@@ -33,10 +33,10 @@ This project demonstrates how to build a memory-augmented AI assistant running c
 
 LONG_MEMORY
 │
-├── app.py
-├── requirements.txt
+├── app.py              # Main Streamlit application
+├── requirements.txt    # Python dependencies
 ├── .gitignore
-└── venv/
+└── venv/               Virtual environment
 
 ⚙️ Requirements
 
